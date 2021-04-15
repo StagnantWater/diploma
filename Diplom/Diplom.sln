@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mSquares", "mSquares\mSquares.csproj", "{C2CA7B7C-7023-4BDD-BF79-22797B1CE719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rolgorithm", "rolgorithm\rolgorithm.csproj", "{2BEAD482-CFA3-4A13-9AC6-AB3F9C2CED1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CA7B7C-7023-4BDD-BF79-22797B1CE719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CA7B7C-7023-4BDD-BF79-22797B1CE719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CA7B7C-7023-4BDD-BF79-22797B1CE719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CA7B7C-7023-4BDD-BF79-22797B1CE719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEAD482-CFA3-4A13-9AC6-AB3F9C2CED1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEAD482-CFA3-4A13-9AC6-AB3F9C2CED1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEAD482-CFA3-4A13-9AC6-AB3F9C2CED1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEAD482-CFA3-4A13-9AC6-AB3F9C2CED1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4008C7D7-F79F-4369-997B-4EB988BA1F9F}
+	EndGlobalSection
+EndGlobal
